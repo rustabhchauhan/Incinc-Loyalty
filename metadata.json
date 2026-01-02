@@ -1,0 +1,7 @@
+{
+  "name": "Incinc Loyalty - Multi-Brand Loyalty & Wallet System",
+  "description": "A comprehensive loyalty platform powered by Incinc Media, featuring a shared wallet, points system, tiered memberships, and multi-role access.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
